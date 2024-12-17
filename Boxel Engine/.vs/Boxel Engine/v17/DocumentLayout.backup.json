@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Jake\\source\\repos\\Boxel-Engine\\Boxel Engine\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{956B8AEA-0E41-4110-B8A6-5E4126F7A08D}|Boxel Engine\\Boxel Engine.vcxproj|C:\\Users\\Jake\\source\\repos\\Boxel-Engine\\Boxel Engine\\Boxel Engine\\Vec2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{956B8AEA-0E41-4110-B8A6-5E4126F7A08D}|Boxel Engine\\Boxel Engine.vcxproj|solutionrelative:Boxel Engine\\Vec2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956B8AEA-0E41-4110-B8A6-5E4126F7A08D}|Boxel Engine\\Boxel Engine.vcxproj|C:\\Users\\Jake\\source\\repos\\Boxel-Engine\\Boxel Engine\\Boxel Engine\\Vec2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{956B8AEA-0E41-4110-B8A6-5E4126F7A08D}|Boxel Engine\\Boxel Engine.vcxproj|solutionrelative:Boxel Engine\\Vec2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956B8AEA-0E41-4110-B8A6-5E4126F7A08D}|Boxel Engine\\Boxel Engine.vcxproj|C:\\Users\\Jake\\source\\repos\\Boxel-Engine\\Boxel Engine\\Boxel Engine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{956B8AEA-0E41-4110-B8A6-5E4126F7A08D}|Boxel Engine\\Boxel Engine.vcxproj|solutionrelative:Boxel Engine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vec2.cpp",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\Boxel-Engine\\Boxel Engine\\Boxel Engine\\Vec2.cpp",
+              "RelativeDocumentMoniker": "Boxel Engine\\Vec2.cpp",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\Boxel-Engine\\Boxel Engine\\Boxel Engine\\Vec2.cpp",
+              "RelativeToolTip": "Boxel Engine\\Vec2.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T16:26:06.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vec2.h",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\Boxel-Engine\\Boxel Engine\\Boxel Engine\\Vec2.h",
+              "RelativeDocumentMoniker": "Boxel Engine\\Vec2.h",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\Boxel-Engine\\Boxel Engine\\Boxel Engine\\Vec2.h",
+              "RelativeToolTip": "Boxel Engine\\Vec2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T16:22:58.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\Boxel-Engine\\Boxel Engine\\Boxel Engine\\main.cpp",
+              "RelativeDocumentMoniker": "Boxel Engine\\main.cpp",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\Boxel-Engine\\Boxel Engine\\Boxel Engine\\main.cpp",
+              "RelativeToolTip": "Boxel Engine\\main.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T20:34:08.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

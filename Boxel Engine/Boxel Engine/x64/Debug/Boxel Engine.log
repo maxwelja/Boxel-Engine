@@ -1,0 +1,4 @@
+﻿  Vec2.cpp
+C:\Users\Jake\source\repos\Boxel-Engine\Boxel Engine\Boxel Engine\Vec2.cpp(48,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jake\source\repos\Boxel-Engine\Boxel Engine\Boxel Engine\Vec2.cpp(55,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Boxel Engine.vcxproj -> C:\Users\Jake\source\repos\Boxel-Engine\Boxel Engine\x64\Debug\Boxel Engine.exe
